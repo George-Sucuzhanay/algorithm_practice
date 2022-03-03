@@ -13,6 +13,7 @@ class Node{
         this.next = null;
     }
 }
+
 // creates our Nodes
 // initialized with data 1
 let firstNode = new Node(1);
